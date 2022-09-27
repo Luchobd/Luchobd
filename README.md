@@ -1,8 +1,8 @@
+<h1 align="center">Nunca dejes de soñar</h1>
 ![](https://cursosformacion.online/wp-content/uploads/2019/03/programacion-web-certificado.jpg)
 
 <h1 align="center">Luis Wuilfredo Blanco Delgado</h1>
 <h3 align='center'>Web Developer</h3>
-<h2 align="center">Nunca dejes de soñar</h2>
 
 <br/>
 <h2 align="center">Habilidades</h2>
@@ -65,6 +65,6 @@
 <div align="center">
 <a href="https://www.linkedin.com/in/luis-wuilfredo-blanco-delgado-b47619207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www .linkedin.com/in/juan-alvarez/" height="50" width="50" /></a>
 <a href="https://luchobd.github.io/luisblanco/" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/899/278/png-clipart-internet-computer-icons-world-wide-web-web-design-text.png" height="50" width="50"/></a>
-<a href="luiswblanco@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" height="50" width="60"></a>
-<a href="luiswblancod@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" height="50" width="60"></a>
+<!-- <a href="luiswblanco@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" height="50" width="60"></a>
+<a href="luiswblancod@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" height="50" width="60"></a> -->
 </div>
