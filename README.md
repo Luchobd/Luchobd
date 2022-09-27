@@ -1,8 +1,8 @@
-<h1 align="center">Nunca dejes de soñar</h1>
 ![](https://cursosformacion.online/wp-content/uploads/2019/03/programacion-web-certificado.jpg)
 
 <h1 align="center">Luis Wuilfredo Blanco Delgado</h1>
 <h3 align='center'>Web Developer</h3>
+<h3 align="center">Nunca dejes de soñar</h3>
 
 <br/>
 <h2 align="center">Habilidades</h2>
