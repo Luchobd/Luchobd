@@ -1,18 +1,16 @@
-![](https://static.platzi.com/media/blog/mern-stack-284eedb6-ee6b-4441-b181-5064a453a15a.png)
+![](https://cursosformacion.online/wp-content/uploads/2019/03/programacion-web-certificado.jpg)
 
-<br/>
-<br/>
 <h1 align="center">Luis Wuilfredo Blanco Delgado</h1>
 <h3 align='center'>Web Developer</h3>
-<h2 align="center">Never stop dreaming</h2>
+<h2 align="center">Nunca dejes de soñar</h2>
 
 <br/>
-<hr/>
+<h2 align="center">Habilidades</h2>
 <br/>
-<p>Incrementar mis habilidades blandas y tecnológicas para ser un valor agregado potencial en cualquier grupo de trabajo, buscando aprender nuevas herramientas, técnicas y formas de aumentar la productividad y eficiencia.</p>
+<p>😎 Incrementar mis habilidades blandas y tecnológicas para ser un valor agregado potencial en cualquier grupo de trabajo, buscando aprender nuevas herramientas, técnicas y formas de aumentar la productividad y eficiencia.</p>
 
 <br/>
-<p>Busco colaborar en proyectos que tengan impacto, para obtener un crecimiento y aprendizaje para lograr mejorar como profesional y persona.</p>
+<p>🕵️‍♀️ Busco colaborar en proyectos que tengan impacto, para obtener un crecimiento y aprendizaje para lograr mejorar como profesional y persona.</p>
 
 <br/>
 <p>🚀 Realice el bootcamp de desarrollador fullstack en SOY HENRY, más de 700 horas donde aprendí diversas tecnologías como:</p>
@@ -50,6 +48,7 @@
 <hr/>
 <br/>
 
+<h2 align="center">Estadísticas</h2>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luchobd&layout=compact&theme=dark&bg_color=0A0A0A" alt="luisblancoLanguages"/>
 </div>
@@ -64,14 +63,7 @@
 <br/>
 <h1 align='center'>Redes de Contacto</h1>
 <div align="center">
-
 <a href="https://www.linkedin.com/in/juan-alvarez-8857aa18b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www .linkedin.com/in/juan-alvarez/" height="50" width="50" /></a>
-<span> </span>
-
 <a href="https://wa.me/3138495730" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2044px-WhatsApp.svg.png" height="50" width="50"/></a>
-<span> </span>
-
 <a href="mailto:juanalvarez0925@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" height="50" width="60"></a>
-<span> </span>
-
 </div>
