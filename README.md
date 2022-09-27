@@ -55,7 +55,7 @@
 
 <br/>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=luchobd&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="luisblancoEstadistica">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=luchobd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&title_color=F39200&icon_color=F39200&bg_color=0D1117" alt="luisblancoEstadistica">
 </div>
 
 <br/>
