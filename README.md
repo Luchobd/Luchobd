@@ -63,7 +63,8 @@
 <br/>
 <h1 align='center'>Redes de Contacto</h1>
 <div align="center">
-<a href="https://www.linkedin.com/in/juan-alvarez-8857aa18b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www .linkedin.com/in/juan-alvarez/" height="50" width="50" /></a>
-<a href="https://wa.me/3138495730" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2044px-WhatsApp.svg.png" height="50" width="50"/></a>
-<a href="mailto:juanalvarez0925@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" height="50" width="60"></a>
+<a href="https://www.linkedin.com/in/luis-wuilfredo-blanco-delgado-b47619207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www .linkedin.com/in/juan-alvarez/" height="50" width="50" /></a>
+<a href="https://luchobd.github.io/luisblanco/" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/899/278/png-clipart-internet-computer-icons-world-wide-web-web-design-text.png" height="50" width="50"/></a>
+<a href="luiswblanco@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" height="50" width="60"></a>
+<a href="luiswblancod@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" height="50" width="60"></a>
 </div>
