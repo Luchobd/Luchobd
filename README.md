@@ -2,6 +2,10 @@
 
 <br/>
 
+<h1 align="center">I'm Luis Blanco 😁✌️- FullStack Developer 🤓💻</h1>
+
+<br/>
+
 <h2 align="center">Tech Skills</h2>
 <br/>
 <div align="center">
