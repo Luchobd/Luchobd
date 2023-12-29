@@ -20,7 +20,7 @@
     </tr>
     <tr>
       <td>TypeScript</td>
-      <td>DataBase - SQL</td>
+      <td>Data Base SQL</td>
     </tr>
     <tr>
       <td>React</td>
@@ -28,6 +28,10 @@
     </tr>
     <tr>
       <td>React Native</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>HTML - CSS</td>
       <td></td>
     </tr>
     <tr>
